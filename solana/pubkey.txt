@@ -1,7 +1,0 @@
-Wrote new keypair to /Users/mattmasteller/.config/solana/id.json
-===========================================================================
-pubkey: EbfuRtBgSDc6D3o4FUXhPj5nM6tg3gbjvWvTovJK6JqU
-===========================================================================
-Save this seed phrase and your BIP39 passphrase to recover your new keypair:
-novel quote unfold word pilot push topic cabbage horror where crouch camera
-===========================================================================
